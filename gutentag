@@ -1,0 +1,57 @@
+# print("HelloWo*&*&)&*&rld")
+#
+# cat = "dog"
+#
+# number = 2
+#
+# a = type(cat)
+# print(type(number))
+#
+# print(type(False))
+#
+# print(type(3.21))
+#
+# print("Jün")
+# print("Jøøn")
+#
+# # hey we're fucking around®
+# print("Hello \"\" \" \"88world")
+
+
+print(2+3)
+
+
+(abcdef) = 2
+print(((((((abcdef)))+1))*82))
+
+a = (((2+3) / (3+4)) /4)* 5
+print (a)
+
+
+name = "grace"
+name2 = "jun"
+
+welcome = "welcome to"
+not_welcome = "get the fuck out of"
+
+template_string = "Hello %s %s walmart %d"
+
+x = template_string % (name, welcome, 2)
+
+print(template_string % (name, welcome, 2))
+print(template_string % (name2, not_welcome, 3))
+
+num = 2
+
+print("cat" + num.__str__())
+
+print()
+print(num)
+
+animal = input()
+print(animal)
+
+# print("dog\ndog\ncat")
+
+# name = input("Enter a name:")
+# print ("my name is" + name)
